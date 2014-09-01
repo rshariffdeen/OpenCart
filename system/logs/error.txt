@@ -1,0 +1,2 @@
+2014-08-07 9:47:02 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart/system/library/session.php on line 12
+2014-08-16 14:27:29 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart/system/library/session.php on line 12
